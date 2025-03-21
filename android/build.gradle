@@ -30,7 +30,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 35
-
+    buildToolsVersion "36.0.0"
     namespace 'com.spencerccf.app_settings'
     
     compileOptions {
